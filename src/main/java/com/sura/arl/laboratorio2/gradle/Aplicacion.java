@@ -3,8 +3,8 @@ package com.sura.arl.laboratorio2.gradle;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.sura.arl.laboratorio2.gradle.numeros.NumeroPrimo;
-import com.sura.arl.laboratorio2.gradle.numeros.primos.NumeroEntero;
+import com.sura.arl.laboratorio2.gradle.numeros.NumeroEntero;
+import com.sura.arl.laboratorio2.gradle.numeros.primos.NumeroPrimo;
 import com.sura.arl.laboratorio2.gradle.serializacion.Serializador;
 
 public class Aplicacion {

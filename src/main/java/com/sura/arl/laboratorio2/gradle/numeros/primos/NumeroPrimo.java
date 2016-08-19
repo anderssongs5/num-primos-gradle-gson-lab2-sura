@@ -1,4 +1,4 @@
-package com.sura.arl.laboratorio2.gradle.numeros;
+package com.sura.arl.laboratorio2.gradle.numeros.primos;
 
 public class NumeroPrimo {
 
